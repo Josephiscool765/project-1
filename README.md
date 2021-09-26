@@ -13,7 +13,7 @@ Project 1 Requirements:
 9. Know how to create a navigation bar at the top of the screen
 10. Know how to position elements beside each other
 11. Learn CSS positioning
-12. 
+
 Project instructions:
 
 After downloading this repo, open up the html file. This is the page that you will be recreating. Do your best to make your project resemble this one as you can. When you create your own project you can copy over the image folder to your own project. Good luck! :)
